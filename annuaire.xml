@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<annuaire>
+
+	<personne>
+		<id>1</id>
+		<nom>Linus</nom>
+		<prenom>Torval</prenom>
+		<dateNaissance>1960-02-12</dateNaissance>
+		<numero>
+			<tel>0491764576</tel>
+			<type>PRO</type>
+		</numero>
+		<numero>
+			<tel>0698093344</tel>
+			<type>PRO</type>
+		</numero>
+	</personne>
+
+	<personne>
+		<id>2</id>
+		<nom>Richard</nom>
+		<prenom>Stallman</prenom>
+		<dateNaissance>1978-02-12</dateNaissance>
+		<numero>
+			<tel>0491764576</tel>
+			<type>FIXE</type>
+		</numero>
+		<numero>
+			<tel>0698093344</tel>
+			<type>PRO</type>
+		</numero>
+	</personne>
+
+	<personne>
+		<id>3</id>
+		<nom>James</nom>
+		<prenom>Gosling</prenom>
+		<dateNaissance>1960-02-12</dateNaissance>
+		<numero>
+			<tel>0491764576</tel>
+			<type>PRO</type>
+		</numero>
+		<numero>
+			<tel>0698093344</tel>
+			<type>PRO</type>
+		</numero>
+	</personne>
+</annuaire>

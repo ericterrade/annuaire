@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<annuaire>
+    <personne>
+        <id>45</id>
+        <nom>fontbonne</nom>
+        <prenom>arnaud</prenom>
+        <dateNaissance>1985-08-29+02:00</dateNaissance>
+        <numero>
+            <id>131</id>
+            <tel>Pro</tel>
+            <type>06654784</type>
+        </numero>
+    </personne>
+    <personne>
+        <id>45</id>
+        <nom>font</nom>
+        <prenom>he</prenom>
+        <dateNaissance>1982-07-28+02:00</dateNaissance>
+        <numero>
+            <id>176</id>
+            <tel>pro</tel>
+            <type>0123456789</type>
+        </numero>
+    </personne>
+</annuaire>
